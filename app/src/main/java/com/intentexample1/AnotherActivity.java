@@ -9,7 +9,7 @@ public class AnotherActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_another);
-
+        //This Changes are not updated
 
     }
 }
